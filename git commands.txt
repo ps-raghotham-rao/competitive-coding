@@ -19,3 +19,7 @@ git push
 Other commands
 git pull
 
+git branch -d localBranchName
+git push origin --delete remoteBranchName
+
+
