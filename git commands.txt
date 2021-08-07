@@ -1,0 +1,27 @@
+Git commands -
+
+git init
+git add .
+git commit -m "commit message"
+git log
+git checkout code
+
+
+git checkout -b name_for_the_branch
+git add .
+git commit -m "message.."
+
+git push -u origin 
+
+git branch
+git checkout name
+
+
+git checkout master
+git merge rag
+
+git push
+
+Other commands
+git pull
+
