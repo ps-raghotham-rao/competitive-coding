@@ -1,5 +1,6 @@
 #include<iostream>
+using namespace std;
 int main(){
-    std::cout<<"lol";
+    cout<<"How is life?";
     return 0;
 }
