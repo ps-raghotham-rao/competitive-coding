@@ -25,10 +25,7 @@ git push
 Other commands
 git pull
 
-<<<<<<< HEAD
-=======
 git branch -d localBranchName
 
 // delete branch remotely
 git push origin --delete remoteBranchName
->>>>>>> rag
