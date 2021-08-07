@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 
+=======
+Git commands -
+
+git init
+git add .
+git commit -m "commit message"
+git log
+git checkout "code"
+>>>>>>> rag
 
 
 git checkout -b name_for_the_branch
@@ -20,6 +30,12 @@ Other commands
 git pull
 
 git branch -d localBranchName
+<<<<<<< HEAD
 git push origin --delete remoteBranchName
 
 
+=======
+
+// delete branch remotely
+git push origin --delete remoteBranchName
+>>>>>>> rag
